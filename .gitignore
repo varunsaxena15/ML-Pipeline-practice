@@ -1,6 +1,10 @@
 data
 models
 reports
+data/raw
+data/processed
+data/interim
+logs
 
 
 
